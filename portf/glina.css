@@ -1,0 +1,383 @@
+.mediaViewInfo {
+	--web-view-name: глина;
+	--web-view-id: ;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+# {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: глина;
+	--web-view-id: ;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#_23 {
+	position: absolute;
+	width: 476px;
+	height: 480px;
+	left: 47px;
+	top: 554px;
+	overflow: visible;
+}
+#_27 {
+	position: absolute;
+	width: 464px;
+	height: 464px;
+	left: 47px;
+	top: 48px;
+	overflow: visible;
+}
+#_25 {
+	position: absolute;
+	width: 521px;
+	height: 522px;
+	left: 1144px;
+	top: 512px;
+	overflow: visible;
+}
+#_26 {
+	position: absolute;
+	width: 519px;
+	height: 389px;
+	left: 554px;
+	top: 48px;
+	overflow: visible;
+}
+#_22 {
+	position: absolute;
+	width: 549px;
+	height: 412px;
+	left: 1116px;
+	top: 48px;
+	overflow: visible;
+}
+#______________________ {
+	left: 535px;
+	top: 440px;
+	position: absolute;
+	overflow: visible;
+	width: 597px;
+	height: 690px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(117,9,20,1);
+}
+#_24_u {
+	fill: url(#_24_u);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._24_u {
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	height: 1080px;
+	left: 1706px;
+	top: 1px;
+}
+#_16 {
+	fill: rgba(175,86,80,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._16 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1737px;
+	top: 122px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#_4 {
+	fill: rgba(196,120,94,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._4 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 228px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: rabota.html;
+	cursor: pointer;
+}
+#_5 {
+	fill: rgba(220,158,109,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._5 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 335px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: sherst.html;
+	cursor: pointer;
+}
+#_6 {
+	fill: rgba(238,185,120,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._6 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 442px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: igrushki.html;
+	cursor: pointer;
+}
+#_11 {
+	fill: rgba(218,179,149,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._11 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 549px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: papie.html;
+	cursor: pointer;
+}
+#_12 {
+	fill: rgba(238,207,180,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._12 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 656px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: vata.html;
+	cursor: pointer;
+}
+#_13 {
+	fill: rgba(183,128,118,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._13 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 763px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: hobby.html;
+	cursor: pointer;
+}
+#_14 {
+	fill: rgba(116,8,19,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._14 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 870px;
+}
+#_ {
+	left: 1747px;
+	top: 125px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(238,207,180,1);
+}
+#_ba {
+	left: 1751px;
+	top: 231px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(238,207,180,1);
+}
+#_bb {
+	left: 1749px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(116,8,19,1);
+}
+#_bc {
+	left: 1747px;
+	top: 445px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(116,8,19,1);
+}
+#_bd {
+	left: 1767px;
+	top: 552px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(116,8,19,1);
+}
+#_be {
+	left: 1771px;
+	top: 659px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(116,8,19,1);
+}
+#_bf {
+	left: 1766px;
+	top: 766px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(238,207,180,1);
+}
+#_bg {
+	left: 1767px;
+	top: 873px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(238,207,180,1);
+}

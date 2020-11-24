@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+   
+   
+   
+</head>
+<body>
+    <form action="" method="post" name="test" onsubmit="valid()">
+        <label for="name">Имя:</label>
+        <input type="text" name="name" placeholder="Имя" id="name" /><br /><br />
+        <label for="password">Почта:</label>
+        <input type="text" name="mail" placeholder="электронная почта" id="mail" /><br /><br />
+        <label for="password">телефон:</label>
+        <input type="text" name="phone" placeholder="электронная почта" id="phone" /><br /><br />
+
+
+        <button type="submit" onclick="valid()">отправить</button>
+    </form>
+    <script>
+        function valid() {
+            var message = {
+                "subject": "сообщение",
+                "message": document.querySelector("#phone").value,
+                "from_email": document.querySelector("#mail").value,
+                "from_name": document.querySelector("#name").value,
+                "to_email": "vitali.korepanov@hugeturtle.com",
+                "to_name": "Vitali Korepanov",
+
+            };
+
+            var xhr = new XMLHttpRequest(mail);
+            xhr.open("POST", "https://send-mail-to-me.herokuapp.com", true);
+            xhr.send(message);
+
+            xhr.abort();
+        }
+        </script>
+</html>

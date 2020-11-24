@@ -1,0 +1,359 @@
+.mediaViewInfo {
+	--web-view-name: работа;
+	--web-view-id: ;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+# {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: работа;
+	--web-view-id: ;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#_6 {
+	position: absolute;
+	width: 801px;
+	height: 825px;
+	left: 107px;
+	top: 206px;
+	overflow: visible;
+}
+#______- {
+	left: 309px;
+	top: 24px;
+	position: absolute;
+	overflow: visible;
+	width: 1115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(116,8,19,1);
+}
+#_12 {
+	position: absolute;
+	width: 619px;
+	height: 825px;
+	left: 991px;
+	top: 206px;
+	overflow: visible;
+}
+#_15_r {
+	fill: url(#_15_r);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._15_r {
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	height: 1080px;
+	left: 1706px;
+	top: 1px;
+}
+#_16 {
+	fill: rgba(175,86,80,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._16 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1737px;
+	top: 122px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#_4 {
+	fill: rgba(196,120,94,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._4 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 228px;
+}
+#_5 {
+	fill: rgba(220,158,109,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._5 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 335px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: sherst.html;
+	cursor: pointer;
+}
+#_6_v {
+	fill: rgba(238,185,120,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._6_v {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 442px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: _______.html;
+	cursor: pointer;
+}
+#_11 {
+	fill: rgba(218,179,149,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._11 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 549px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: _____.html;
+	cursor: pointer;
+}
+#_12_x {
+	fill: rgba(238,207,180,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._12_x {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 656px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ____.html;
+	cursor: pointer;
+}
+#_13 {
+	fill: rgba(183,128,118,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._13 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 763px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: _____.html;
+	cursor: pointer;
+}
+#_14 {
+	fill: rgba(116,8,19,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._14 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 89px;
+	left: 1735px;
+	top: 870px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: _____.html;
+	cursor: pointer;
+}
+#_ {
+	left: 1746px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(238,207,180,1);
+}
+#_ba {
+	left: 1750px;
+	top: 226px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(238,207,180,1);
+}
+#_bb {
+	left: 1748px;
+	top: 333px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(116,8,19,1);
+}
+#_bc {
+	left: 1746px;
+	top: 440px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(116,8,19,1);
+}
+#_bd {
+	left: 1766px;
+	top: 547px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(116,8,19,1);
+}
+#_be {
+	left: 1770px;
+	top: 654px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(116,8,19,1);
+}
+#_bf {
+	left: 1765px;
+	top: 761px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(238,207,180,1);
+}
+#_bg {
+	left: 1766px;
+	top: 868px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(238,207,180,1);
+}
